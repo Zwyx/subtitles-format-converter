@@ -2,21 +2,21 @@
 
 Command line utility to convert subtitles between formats.
 
-# Currently supported input formats
+## Currently supported input formats
 
 - VTT (partially)
 
-# Currently supported outpout formats
+## Currently supported outpout formats
 
 - SRT
 
-# Installation
+## Installation
 
 ```sh
 npm i -g subtitles-format-converter
 ```
 
-# Usage
+## Usage
 
 ```sh
 Usage: sfc <output-format> [options] [files|directories..]
