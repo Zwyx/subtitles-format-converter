@@ -2,7 +2,7 @@
 	"name": "subtitles-format-converter",
 	"version": "1.0.1",
 	"description": "Convert subtitles between formats",
-	"main": "index.js",
+	"main": "dist/index.js",
 	"bin": {
 		"sfc": "dist/index.js"
 	},
